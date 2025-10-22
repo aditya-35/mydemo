@@ -1,2 +1,2 @@
 # mydemo
-this is my demo depo
+this is my demo repo
